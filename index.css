@@ -1,0 +1,51 @@
+body {
+
+    font-family: "Acme", sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+    color: #a9f8b4;
+    text-align: center;
+}
+
+h2 {
+    color: #9bfc8e;
+    font-size: 20px;
+    text-align: center;
+
+}
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+   border-radius:5%;
+ 
+}
+body{
+    background-color: #589b7c;
+}
+p {
+    color:rgb(255, 223, 226)
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
