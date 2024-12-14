@@ -1,0 +1,48 @@
+.header {
+    background-color: #ff0000;
+    text-align: center;
+    padding: 20px;
+  }
+  footer {
+    text-align: center;
+        background-color: #0000006b;
+        text-align: center;
+        padding: 100px;
+      }
+
+      img {
+        border-radius: 20px;
+      }
+      ul li {
+        list-style: none;
+        display: inline-block;
+    
+    }
+    
+    ul li a {
+        display: block;
+        text-decoration: none;
+        font-size: 25px;
+        font-family: 'poppins', sans-serif;
+        color: #1e1e1e;
+        padding: 0 100px;
+    
+    }
+    .menu{
+        overflow: hidden;
+      background-color: #000000;
+    }
+    
+    .menu a {
+        float: left;
+      display: block;
+      color: #ff00008e;
+      text-align: center;
+      padding: 1px 10px;
+      text-decoration: none;
+    }
+    
+    .menu a:hover {
+        background-color: #000000;
+        color: rgb(255, 255, 255);
+    }

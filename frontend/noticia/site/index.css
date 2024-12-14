@@ -6,15 +6,20 @@ body {
 
 h1 {
     font-size: 50px;
-    color: #d11010;
+    color: #a9f8b4;
     text-align: center;
 }
 
 h2 {
-    color: #a30218;
+    color: #9bfc8e;
     font-size: 20px;
     text-align: center;
 
+}
+h3 {
+    color: #9bfc8e;
+    font-size: 20px;
+    text-align: center;
 }
 img{
    display: block;
@@ -25,10 +30,11 @@ img{
  
 }
 body{
-    background-color: #cc5565;
+    background-color: #61bb91;
 }
 p {
-    color:rgb(255, 223, 226)
+    color:rgb(255, 255, 255);
+    text-align: center;
 }
 
 
